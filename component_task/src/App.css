@@ -1,0 +1,21 @@
+.navbar{
+  display: flex;
+  background-color: yellow;
+  align-items: flex-end;
+  justify-content: space-between;
+  padding: 20px;
+
+  
+}
+.navbar ul{
+  align-items: flex-end;
+  list-style: none;
+  display: flex;
+  gap: 30px;
+  margin: 0;
+  padding: 0;
+}
+.content{
+ 
+  background-color: yellow;
+}
