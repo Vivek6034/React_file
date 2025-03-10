@@ -5,7 +5,7 @@ function App() {
 
   return (
     <>
-      <Child1 name ="vivek"/>
+      <Child1 value ="vivek"/>
      
     </>
   )

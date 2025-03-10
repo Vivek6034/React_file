@@ -1,9 +1,11 @@
-// import Child3 from "./Child3"
+ import Child3 from "./Child3"
+function Child2(props) {
+    let {lname} =props
 
-function Child2() {
     return(
         <>
-            <h1>hello</h1>
+            <h1>last name is {lname}</h1>
+            <Child3 age  = {lname} />
         </>
     )
 }
