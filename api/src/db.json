@@ -1,0 +1,16 @@
+{
+    "userdata":[
+        {
+            "uname":"vivek",
+            "age":25,
+            "contact":625465,
+            "city":"Bhopal"
+        },
+        {
+            "uname":"aashu",
+            "age":26,
+            "contact":6565465,
+            "city":"Bihar"
+        }
+    ]
+}
