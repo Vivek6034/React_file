@@ -5,7 +5,7 @@ import './App.css'
 function Login() {
     let navigate = useNavigate()
     let [logindata, setLogin] = useState({
-        username: "", password: "",
+        username: "", password: ""
     })
     function Loginvalue(e) {
         const { name, value } = e.target;

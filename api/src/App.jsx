@@ -1,11 +1,16 @@
+import { Route, Routes } from "react-router-dom"
 import Fetchapi from "./Fetchapi"
-function App() {
+import Insert from "./insert "
 
-  return (
+function App() {
+  return(
     <>
-      <Fetchapi/>
+      <Routes>
+        <Route index element={<Insert/>}/>
+        <Route path="/fetchapi" element={<Fetchapi/>}/>
+      </Routes>
     </>
   )
 }
 
-export default App
+      export default App
