@@ -15,22 +15,6 @@
       "id": "955f"
     },
     {
-      "id": "a455",
-      "name": "",
-      "age": "21",
-      "contact": "6209815873",
-      "city": "SARAN",
-      "uname": "vivek singh"
-    },
-    {
-      "id": "65f9",
-      "name": "",
-      "age": "21",
-      "contact": "6209815873",
-      "city": "SARAN",
-      "uname": "vivek singh"
-    },
-    {
       "id": "9a59",
       "uname": "aditya",
       "age": "15",
@@ -38,11 +22,46 @@
       "city": "siwan"
     },
     {
-      "id": "6196",
-      "uname": "aditya",
-      "age": "15",
+      "id": "c503",
+      "uname": "risabh",
+      "age": "25",
+      "contact": "7878165748",
+      "city": "sehore"
+    },
+    {
+      "id": "7fd3",
+      "uname": "prince",
+      "age": "21",
+      "contact": "8634679813",
+      "city": "itarsi"
+    },
+    {
+      "id": "e12d",
+      "uname": "ravi",
+      "age": "25",
+      "contact": "8789456880",
+      "city": "bihar"
+    },
+    {
+      "id": "8adf",
+      "uname": "mukesh",
+      "age": "25",
+      "contact": "9235648971",
+      "city": "up"
+    },
+    {
+      "id": "8c5a",
+      "uname": "vivek",
+      "age": "104",
       "contact": "9615656789",
-      "city": "siwan"
+      "city": "bhopal"
+    },
+    {
+      "id": "3a88",
+      "uname": "rakesh",
+      "age": "32",
+      "contact": "9748653421",
+      "city": "saran"
     }
   ]
 }

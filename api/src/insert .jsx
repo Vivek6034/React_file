@@ -25,16 +25,16 @@ function Insert () {
     <>
         <form  onSubmit={Submithandle}>
             <label htmlFor="">Name</label>
-            <input type="text"  onChange={Inputhandle} name='uname'/><br /><br />
+            <input type="text"  onChange={Inputhandle} name='uname'required/><br /><br />
 
             <label htmlFor="">Age</label>
-            <input type="text"onChange={Inputhandle} name='age'/><br /><br />
+            <input type="text"onChange={Inputhandle} name='age' required/><br /><br />
 
             <label htmlFor="">Contact</label>
-            <input type="text" onChange={Inputhandle} name='contact'/><br /><br />
+            <input type="text" onChange={Inputhandle} name='contact' required/><br /><br />
 
             <label htmlFor="">City</label>
-            <input type="text" onChange={Inputhandle} name='city'/><br /><br />
+            <input type="text" onChange={Inputhandle} name='city' required/><br /><br />
 
             <input type="submit"/>
         </form>
